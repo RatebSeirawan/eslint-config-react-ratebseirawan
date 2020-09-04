@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-react-ratebseirawan",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "My eslint configuration for React / React Native. this plugin requires eslint `v6` or superior.",
   "main": "index.js",
   "scripts": {
