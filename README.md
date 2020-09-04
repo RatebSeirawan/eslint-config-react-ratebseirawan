@@ -11,6 +11,6 @@ In `.eslintrc`:
 
 ```json
 { 
-  "extends": "react-native-ratebseirawan", 
+  "extends": "react-ratebseirawan", 
 } 
 ```
