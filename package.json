@@ -1,0 +1,35 @@
+{
+  "name": "eslint-config-react-ratebseirawan",
+  "version": "0.0.0-development",
+  "description": "My eslint configuration for React / React Native. this plugin requires eslint `v6` or superior.",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint -c index.js tests/*.tsx --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RatebSeirawan/eslint-config-react-ratebseirawan.git"
+  },
+  "author": "Rateb Seirawan <ratebseirawan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RatebSeirawan/eslint-config-react-ratebseirawan/issues"
+  },
+  "homepage": "https://github.com/RatebSeirawan/eslint-config-react-ratebseirawan#readme",
+  "devDependencies": {
+    "eslint": "^7.8.1"
+  },
+  "dependencies": {
+    "@react-native-community/eslint-config": "2.0.0",
+    "eslint-plugin-import": "^2.22.0",
+    "typescript": "^4.0.2"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [
+    "eslint",
+    "react",
+    "react-native"
+  ]
+}
