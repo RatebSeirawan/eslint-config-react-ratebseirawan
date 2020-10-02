@@ -14,3 +14,16 @@ In `.eslintrc`:
   "extends": "react-ratebseirawan", 
 } 
 ```
+
+Prettier config file `.prettierrc`:
+
+```json
+{
+    "printWidth": 100,
+    "bracketSpacing": false,
+    "jsxBracketSameLine": true,
+    "singleQuote": true,
+    "trailingComma": "all",
+    "quoteProps": "preserve"
+}
+```
