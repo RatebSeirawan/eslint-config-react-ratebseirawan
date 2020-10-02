@@ -19,7 +19,7 @@ Prettier config file `.prettierrc`:
 
 ```json
 {
-    "printWidth": 100,
+    "printWidth": 90,
     "bracketSpacing": false,
     "jsxBracketSameLine": true,
     "singleQuote": true,
